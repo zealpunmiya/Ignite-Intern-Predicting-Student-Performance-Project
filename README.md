@@ -35,17 +35,7 @@ The dataset used in this project is the "Student Performance Dataset" from the U
 - **Mean Absolute Error**: 1.09
 - **R2 Score**: 0.85
 
-### Visualizations
-- **Distribution of Final Grades**
-  ![Grade Distribution](images/grade_distribution.png)
-- **Correlation Matrix**
-  ![Correlation Matrix](images/correlation_matrix.png)
-- **Actual vs Predicted Grades**
-  ![Actual vs Predicted](images/actual_vs_predicted.png)
-- **Feature Importances**
-  ![Feature Importances](images/feature_importances.png)
-- **Residual Plot**
-  ![Residual Plot](images/residual_plot.png)
+
 
 
 
